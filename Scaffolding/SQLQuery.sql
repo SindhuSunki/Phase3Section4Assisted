@@ -1,0 +1,6 @@
+SELECT TOP (1000) [ID]
+      ,[Name]
+      ,[Address]
+      ,[Email]
+      ,[class]
+  FROM [Schools1].[dbo].[Student]
