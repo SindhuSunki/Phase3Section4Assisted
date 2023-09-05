@@ -12,6 +12,7 @@ namespace ErrorHandling.Controllers
         {
             return View();
         }
+
         [HttpPost]
         public ActionResult Index(FormCollection form)
         {
@@ -57,6 +58,3 @@ namespace ErrorHandling.Controllers
         }
     }
 }
-
-       
-    
