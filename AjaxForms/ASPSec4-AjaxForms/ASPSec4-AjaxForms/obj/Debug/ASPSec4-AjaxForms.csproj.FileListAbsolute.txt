@@ -1,0 +1,2 @@
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\AjaxForms\ASPSec4-AjaxForms\ASPSec4-AjaxForms\obj\Debug\ASPSec4-AjaxForms.csproj.AssemblyReference.cache
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\AjaxForms\ASPSec4-AjaxForms\ASPSec4-AjaxForms\obj\Debug\ASPSec4-AjaxForms.csproj.CoreCompileInputs.cache
